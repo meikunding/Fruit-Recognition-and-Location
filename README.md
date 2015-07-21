@@ -8,3 +8,4 @@ The Recognition includes the following step.
 4. using shape feature for the similar color ,such as banana and pear
 
 If you have some question, you can contact me.
+meikunding@outlook.com meikun
